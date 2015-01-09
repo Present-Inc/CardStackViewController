@@ -6,4 +6,4 @@ No time to explain!  Feel free to use this... it works with any view controller.
 
 ## Demo Video
 
-Download the demo video in the root to watch it (sorry).  Link: 
+Download the demo video in the root to watch it (sorry).  Link: https://raw.githubusercontent.com/Present-Inc/CardStackViewController/master/Card%20Navigation%20Controller%20Example.mov
